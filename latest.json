@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-11-08T12:47:54.879Z",
+  "generated_at": "2026-11-09T15:16:18.816Z",
   "property": "https://artu.ai/",
   "window": {
-    "start": "2026-10-11",
-    "end": "2026-11-05",
+    "start": "2026-10-12",
+    "end": "2026-11-06",
     "days": 28
   },
   "totals": {
-    "clicks": 187,
-    "impressions": 6791,
-    "ctr": 0.0275
+    "clicks": 197,
+    "impressions": 6920,
+    "ctr": 0.0285
   },
   "top_queries": [
     {
       "query": "artu",
-      "clicks": 41,
-      "impressions": 889,
-      "ctr": 0.0461,
-      "position": 3.86
+      "clicks": 43,
+      "impressions": 863,
+      "ctr": 0.0498,
+      "position": 3.84
     },
     {
       "query": "artu ai",
       "clicks": 20,
-      "impressions": 29,
-      "ctr": 0.6897,
-      "position": 1.14
+      "impressions": 31,
+      "ctr": 0.6452,
+      "position": 1.13
     },
     {
       "query": "artu ia",
@@ -36,16 +36,23 @@
     {
       "query": "software pld mexico",
       "clicks": 3,
-      "impressions": 15,
-      "ctr": 0.2,
-      "position": 5.8
+      "impressions": 16,
+      "ctr": 0.1875,
+      "position": 5.94
     },
     {
       "query": "software pld",
       "clicks": 2,
-      "impressions": 99,
-      "ctr": 0.0202,
-      "position": 21.03
+      "impressions": 95,
+      "ctr": 0.0211,
+      "position": 20.95
+    },
+    {
+      "query": "artur ai",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 19.25
     },
     {
       "query": "fortikon",
@@ -76,11 +83,11 @@
       "position": 1
     },
     {
-      "query": "3210 umas",
+      "query": "$pld",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
-      "position": 7
+      "position": 36
     },
     {
       "query": "aartu",
@@ -120,9 +127,9 @@
     {
       "query": "aldda",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 4,
       "ctr": 0,
-      "position": 23.5
+      "position": 22.75
     },
     {
       "query": "aldda pld",
@@ -134,9 +141,9 @@
     {
       "query": "anti lavado de dinero",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 3,
       "ctr": 0,
-      "position": 23
+      "position": 29.33
     },
     {
       "query": "antilavado",
@@ -186,6 +193,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 53
+    },
+    {
+      "query": "art 17 ley antilavado de dinero",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 71
     },
     {
       "query": "art 17 lfpiorpi",
@@ -244,13 +258,6 @@
       "position": 1.5
     },
     {
-      "query": "artu.",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 1
-    },
-    {
       "query": "artu.ai",
       "clicks": 0,
       "impressions": 5,
@@ -279,13 +286,6 @@
       "position": 83
     },
     {
-      "query": "artur ai",
-      "clicks": 0,
-      "impressions": 3,
-      "ctr": 0,
-      "position": 24.67
-    },
-    {
       "query": "arturito ai",
       "clicks": 0,
       "impressions": 2,
@@ -302,9 +302,9 @@
     {
       "query": "artus",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 5,
       "ctr": 0,
-      "position": 59.71
+      "position": 60.8
     },
     {
       "query": "artuzi e artuzi ltda",
@@ -335,6 +335,13 @@
       "position": 9
     },
     {
+      "query": "atributos del perfil pep",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 75
+    },
+    {
       "query": "auditoria pld",
       "clicks": 0,
       "impressions": 3,
@@ -344,9 +351,9 @@
     {
       "query": "auditoría ley antilavado",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 3,
       "ctr": 0,
-      "position": 36.5
+      "position": 37.33
     },
     {
       "query": "auditoría pld",
@@ -449,16 +456,16 @@
     {
       "query": "ayuda para pld",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
       "position": 48
     },
     {
       "query": "beneficiario controlador ley antilavado",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 6,
       "ctr": 0,
-      "position": 94.8
+      "position": 92
     },
     {
       "query": "beneficiario controlador pld",
@@ -470,9 +477,9 @@
     {
       "query": "carlos marcin pallares",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 3,
       "ctr": 0,
-      "position": 8.5
+      "position": 8.33
     },
     {
       "query": "como presentar los avisos de la ley antilavado",
@@ -503,13 +510,6 @@
       "position": 11
     },
     {
-      "query": "cual es la respuesta correcta?",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 1
-    },
-    {
       "query": "cuando se identifica a un cliente como pep, debe aplicarse:",
       "clicks": 0,
       "impressions": 2,
@@ -533,9 +533,9 @@
     {
       "query": "custodia de dinero",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 4,
       "ctr": 0,
-      "position": 5
+      "position": 3.5
     },
     {
       "query": "decreto marzo 2026",
@@ -543,13 +543,6 @@
       "impressions": 3,
       "ctr": 0,
       "position": 7.33
-    },
-    {
-      "query": "desarrolladoras de casas",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 74
     },
     {
       "query": "desde el 2024",
@@ -594,18 +587,18 @@
       "position": 6
     },
     {
-      "query": "esa no es la imagen",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 13
-    },
-    {
       "query": "evaluacion diligencia debida",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
       "position": 81
+    },
+    {
+      "query": "formato pld",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
     },
     {
       "query": "grupo aduanero del bravo",
@@ -617,9 +610,9 @@
     {
       "query": "herramienta para pld",
       "clicks": 0,
-      "impressions": 10,
+      "impressions": 6,
       "ctr": 0,
-      "position": 67.6
+      "position": 69.83
     },
     {
       "query": "herramientas",
@@ -634,13 +627,6 @@
       "impressions": 1,
       "ctr": 0,
       "position": 1
-    },
-    {
-      "query": "inmobiliarias?",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 3
     },
     {
       "query": "kyc pld",
@@ -666,9 +652,9 @@
     {
       "query": "ley antilavado",
       "clicks": 0,
-      "impressions": 24,
+      "impressions": 23,
       "ctr": 0,
-      "position": 27.33
+      "position": 27.13
     },
     {
       "query": "ley antilavado 2021",
@@ -734,13 +720,6 @@
       "position": 36.75
     },
     {
-      "query": "ley contra el lavado de dinero actividades económicas",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 28
-    },
-    {
       "query": "ley de antilavado",
       "clicks": 0,
       "impressions": 1,
@@ -790,6 +769,13 @@
       "position": 48
     },
     {
+      "query": "ley que tiene como objetivos que entidades no financieras identifiquen y generen avisos",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
       "query": "lfiorpi",
       "clicks": 0,
       "impressions": 2,
@@ -813,9 +799,9 @@
     {
       "query": "lfpiorpi",
       "clicks": 0,
-      "impressions": 48,
+      "impressions": 49,
       "ctr": 0,
-      "position": 22.65
+      "position": 22.33
     },
     {
       "query": "lfpiorpi 2026",
@@ -869,16 +855,16 @@
     {
       "query": "listas negras pld",
       "clicks": 0,
-      "impressions": 9,
+      "impressions": 8,
       "ctr": 0,
-      "position": 32.44
+      "position": 31
     },
     {
       "query": "listas pld",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
-      "position": 21.5
+      "position": 5
     },
     {
       "query": "lofpi",
@@ -932,23 +918,23 @@
     {
       "query": "mejor software pld",
       "clicks": 0,
-      "impressions": 40,
+      "impressions": 42,
       "ctr": 0,
-      "position": 26.75
+      "position": 26.02
     },
     {
       "query": "mejor software pld en mexico",
       "clicks": 0,
-      "impressions": 36,
+      "impressions": 38,
       "ctr": 0,
-      "position": 32.86
+      "position": 31.45
     },
     {
       "query": "mejores software pld",
       "clicks": 0,
-      "impressions": 22,
+      "impressions": 23,
       "ctr": 0,
-      "position": 9.14
+      "position": 9.04
     },
     {
       "query": "minisitio actividades vulnerables",
@@ -981,9 +967,16 @@
     {
       "query": "pep pld",
       "clicks": 0,
-      "impressions": 11,
+      "impressions": 12,
       "ctr": 0,
-      "position": 10.27
+      "position": 9.83
+    },
+    {
+      "query": "persona expuesta políticamente",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
     },
     {
       "query": "persona politicamente expuesta en mexico",
@@ -1002,9 +995,9 @@
     {
       "query": "piorpi ley",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 6,
       "ctr": 0,
-      "position": 31.6
+      "position": 29.33
     },
     {
       "query": "pld actividades vulnerables",
@@ -1012,6 +1005,13 @@
       "impressions": 1,
       "ctr": 0,
       "position": 48
+    },
+    {
+      "query": "pld avisos",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
     },
     {
       "query": "pld compliance",
@@ -1119,13 +1119,6 @@
       "position": 82
     },
     {
-      "query": "principales clientes",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 1
-    },
-    {
       "query": "programa pld",
       "clicks": 0,
       "impressions": 1,
@@ -1175,6 +1168,13 @@
       "position": 24.71
     },
     {
+      "query": "que es pld en contabilidad",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
       "query": "que es sppld",
       "clicks": 0,
       "impressions": 1,
@@ -1205,9 +1205,9 @@
     {
       "query": "reglas de caracter general ley antilavado",
       "clicks": 0,
-      "impressions": 46,
+      "impressions": 47,
       "ctr": 0,
-      "position": 63.43
+      "position": 63.7
     },
     {
       "query": "reglas de caracter general lfpiorpi",
@@ -1268,9 +1268,9 @@
     {
       "query": "siac pld",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 4,
       "ctr": 0,
-      "position": 55.6
+      "position": 51.75
     },
     {
       "query": "sistema automatizado actividades vulnerables",
@@ -1282,9 +1282,9 @@
     {
       "query": "sistema automatizado pld",
       "clicks": 0,
-      "impressions": 76,
+      "impressions": 84,
       "ctr": 0,
-      "position": 19.46
+      "position": 18.46
     },
     {
       "query": "sistema de pld",
@@ -1310,9 +1310,9 @@
     {
       "query": "sistema pld",
       "clicks": 0,
-      "impressions": 22,
+      "impressions": 23,
       "ctr": 0,
-      "position": 16.45
+      "position": 15.7
     },
     {
       "query": "site:aemps.gob.es \"formas de pago (no telemáticas) permitidas\" aemps",
@@ -1331,9 +1331,9 @@
     {
       "query": "soft para pld",
       "clicks": 0,
-      "impressions": 17,
+      "impressions": 14,
       "ctr": 0,
-      "position": 43.47
+      "position": 42
     },
     {
       "query": "software antilavado",
@@ -1345,9 +1345,9 @@
     {
       "query": "software antilavado méxico",
       "clicks": 0,
-      "impressions": 10,
+      "impressions": 9,
       "ctr": 0,
-      "position": 18.2
+      "position": 18.44
     },
     {
       "query": "software automatizado",
@@ -1359,9 +1359,9 @@
     {
       "query": "software automatizado pld",
       "clicks": 0,
-      "impressions": 29,
+      "impressions": 30,
       "ctr": 0,
-      "position": 25.83
+      "position": 25.53
     },
     {
       "query": "software de cobranza para inmobiliarias en méxico",
@@ -1394,9 +1394,9 @@
     {
       "query": "software para pld",
       "clicks": 0,
-      "impressions": 33,
+      "impressions": 32,
       "ctr": 0,
-      "position": 27.15
+      "position": 26.81
     },
     {
       "query": "software para prevención de lavado de dinero",
@@ -1429,23 +1429,23 @@
     {
       "query": "software pld actividades vulnerables",
       "clicks": 0,
-      "impressions": 22,
+      "impressions": 23,
       "ctr": 0,
-      "position": 19.23
+      "position": 18.74
     },
     {
       "query": "software pld en mexico",
       "clicks": 0,
-      "impressions": 15,
+      "impressions": 16,
       "ctr": 0,
-      "position": 20.73
+      "position": 20.44
     },
     {
       "query": "software pld para actividades vulnerables",
       "clicks": 0,
-      "impressions": 27,
+      "impressions": 28,
       "ctr": 0,
-      "position": 32.7
+      "position": 31.93
     },
     {
       "query": "software pld para entidades financieras",
@@ -1457,9 +1457,9 @@
     {
       "query": "software pld para sofomes",
       "clicks": 0,
-      "impressions": 11,
+      "impressions": 12,
       "ctr": 0,
-      "position": 14.45
+      "position": 14
     },
     {
       "query": "software pld sofom",
@@ -1499,9 +1499,9 @@
     {
       "query": "sppld",
       "clicks": 0,
-      "impressions": 67,
+      "impressions": 68,
       "ctr": 0,
-      "position": 10.91
+      "position": 10.88
     },
     {
       "query": "sppld portal",
@@ -1548,9 +1548,9 @@
     {
       "query": "top compliance officers 2026",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 4,
       "ctr": 0,
-      "position": 8
+      "position": 7
     },
     {
       "query": "top consultores",
@@ -1604,9 +1604,9 @@
     {
       "query": "¿cómo cumplir con la ley antilavado en méxico?",
       "clicks": 0,
-      "impressions": 23,
+      "impressions": 24,
       "ctr": 0,
-      "position": 26.52
+      "position": 26.21
     },
     {
       "query": "¿cómo puedo realizar un seguimiento automático de los cambios en el estado de riesgo de los contratistas?",
@@ -1632,9 +1632,9 @@
     {
       "query": "¿puedo encontrar una plataforma confiable que le permita a un responsable nacional de cumplimiento simplificar los procesos en varias sedes en méxico?",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
-      "position": 5.5
+      "position": 6
     },
     {
       "query": "¿quién puede ser considerado una persona políticamente expuesta (pep)?",
@@ -1674,130 +1674,137 @@
     {
       "query": "¿qué software garantiza la protección de datos personales conforme a la lfpdppp?",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 5,
       "ctr": 0,
-      "position": 7.67
+      "position": 7.4
     }
   ],
   "top_pages": [
     {
       "page": "https://artu.ai/",
-      "clicks": 95,
-      "impressions": 1294,
-      "ctr": 0.0734,
-      "position": 4.51
+      "clicks": 98,
+      "impressions": 1285,
+      "ctr": 0.0763,
+      "position": 4.47
+    },
+    {
+      "page": "https://artu.ai/articles/software-pld-actividades-vulnerables-que-hay-en-el-mercado/",
+      "clicks": 13,
+      "impressions": 645,
+      "ctr": 0.0202,
+      "position": 9.27
     },
     {
       "page": "https://artu.ai/software/",
       "clicks": 13,
-      "impressions": 538,
-      "ctr": 0.0242,
-      "position": 7.79
-    },
-    {
-      "page": "https://artu.ai/articles/software-pld-actividades-vulnerables-que-hay-en-el-mercado/",
-      "clicks": 11,
-      "impressions": 631,
-      "ctr": 0.0174,
-      "position": 9.53
+      "impressions": 551,
+      "ctr": 0.0236,
+      "position": 7.4
     },
     {
       "page": "https://artu.ai/articles/avisos-24-horas-operaciones-sospechosas-como-presentarlos/",
       "clicks": 6,
-      "impressions": 286,
-      "ctr": 0.021,
-      "position": 12.85
+      "impressions": 298,
+      "ctr": 0.0201,
+      "position": 12.61
     },
     {
       "page": "https://artu.ai/articles/pld-en-construccion-en-mexico-como-cumplir-por-sector-(guia-practica-2026)/",
       "clicks": 6,
-      "impressions": 177,
-      "ctr": 0.0339,
-      "position": 6.17
+      "impressions": 182,
+      "ctr": 0.033,
+      "position": 6.13
     },
     {
       "page": "https://artu.ai/curso/",
-      "clicks": 5,
-      "impressions": 27,
-      "ctr": 0.1852,
-      "position": 4.78
+      "clicks": 6,
+      "impressions": 30,
+      "ctr": 0.2,
+      "position": 4.57
+    },
+    {
+      "page": "https://artu.ai/nosotros/",
+      "clicks": 6,
+      "impressions": 502,
+      "ctr": 0.012,
+      "position": 2.48
     },
     {
       "page": "https://artu.ai/lfpiorpi/",
       "clicks": 5,
-      "impressions": 361,
-      "ctr": 0.0139,
-      "position": 11.68
-    },
-    {
-      "page": "https://artu.ai/nosotros/",
-      "clicks": 5,
-      "impressions": 504,
-      "ctr": 0.0099,
-      "position": 2.49
+      "impressions": 365,
+      "ctr": 0.0137,
+      "position": 11.61
     },
     {
       "page": "https://artu.ai/articles/auditorias-internas-compliance-pld-actividades-vulnerables/",
       "clicks": 4,
-      "impressions": 136,
-      "ctr": 0.0294,
-      "position": 8.35
+      "impressions": 143,
+      "ctr": 0.028,
+      "position": 8.09
+    },
+    {
+      "page": "https://artu.ai/articles/guia-por-que-tu-inmobiliaria-necesita-un-software-pld-(cumplimiento-lfpiorpi)-en-mexico/",
+      "clicks": 4,
+      "impressions": 55,
+      "ctr": 0.0727,
+      "position": 16.16
     },
     {
       "page": "https://artu.ai/articles/informe-en-ceros-avisos-al-sat-y-sppld-la-trampa-operativa-que-rompe-tu-compliance-pld-(y-como-blindarla-con-software-pld)/",
       "clicks": 4,
-      "impressions": 259,
-      "ctr": 0.0154,
-      "position": 6.29
+      "impressions": 269,
+      "ctr": 0.0149,
+      "position": 6.17
     },
     {
       "page": "https://artu.ai/aliados/",
       "clicks": 3,
       "impressions": 166,
       "ctr": 0.0181,
-      "position": 5.15
-    },
-    {
-      "page": "https://artu.ai/articles/guia-por-que-tu-inmobiliaria-necesita-un-software-pld-(cumplimiento-lfpiorpi)-en-mexico/",
-      "clicks": 3,
-      "impressions": 54,
-      "ctr": 0.0556,
-      "position": 17.93
+      "position": 5.22
     },
     {
       "page": "https://artu.ai/articles/guia-sistema-automatizado-pld-arrendamiento-uso-goce-inmuebles/",
       "clicks": 3,
-      "impressions": 84,
-      "ctr": 0.0357,
-      "position": 25.85
+      "impressions": 83,
+      "ctr": 0.0361,
+      "position": 25.13
     },
     {
       "page": "https://artu.ai/articles/guia-sistema-automatizado-pld-cheques-de-viajero/",
       "clicks": 2,
-      "impressions": 31,
-      "ctr": 0.0645,
-      "position": 15.39
+      "impressions": 33,
+      "ctr": 0.0606,
+      "position": 15.03
     },
     {
       "page": "https://artu.ai/articles/guia-sistema-automatizado-pld-donativos-asociaciones-sin-fines-de-lucro/",
       "clicks": 2,
-      "impressions": 78,
-      "ctr": 0.0256,
-      "position": 29.47
+      "impressions": 84,
+      "ctr": 0.0238,
+      "position": 28.29
     },
     {
       "page": "https://artu.ai/articles/guia-sistema-automatizado-pld-fe-publica-notarios-corredores/",
       "clicks": 2,
-      "impressions": 11,
-      "ctr": 0.1818,
-      "position": 8.91
+      "impressions": 10,
+      "ctr": 0.2,
+      "position": 8.5
     },
     {
       "page": "https://artu.ai/articulos/",
       "clicks": 2,
-      "impressions": 597,
-      "ctr": 0.0034,
-      "position": 7.47
+      "impressions": 599,
+      "ctr": 0.0033,
+      "position": 7.46
+    },
+    {
+      "page": "https://artu.ai/calculadora-de-riesgo/",
+      "clicks": 2,
+      "impressions": 173,
+      "ctr": 0.0116,
+      "position": 4.16
     },
     {
       "page": "https://artu.ai/articles/alta-padron-sat-actividades-vulnerables-guia-paso-a-paso/",
@@ -1809,23 +1816,23 @@
     {
       "page": "https://artu.ai/articles/auditoria-interna-vs-externa-pld-cuando-aplica-cada-una/",
       "clicks": 1,
-      "impressions": 32,
-      "ctr": 0.0313,
-      "position": 12.75
+      "impressions": 33,
+      "ctr": 0.0303,
+      "position": 12.7
     },
     {
       "page": "https://artu.ai/articles/compliance-pld-aml-en-mexico-screening-de-listas-negras-pep-y-sanciones-con-software-pld-(kyc-y-monitoreo-continuo)/",
       "clicks": 1,
-      "impressions": 166,
-      "ctr": 0.006,
-      "position": 6.98
+      "impressions": 176,
+      "ctr": 0.0057,
+      "position": 6.87
     },
     {
       "page": "https://artu.ai/articles/de-5-a-10-anos-resguardo-de-evidencia-y-expediente-digital-auditable-en-compliance-pld-(lfpiorpi-2025)-y-como-lograrlo-con-software-pld/",
       "clicks": 1,
-      "impressions": 17,
-      "ctr": 0.0588,
-      "position": 4.47
+      "impressions": 19,
+      "ctr": 0.0526,
+      "position": 4.42
     },
     {
       "page": "https://artu.ai/articles/fideicomisos-y-compliance-pld-en-mexico-como-cumplir-con-lfpiorpi-beneficiario-controlador-y-avisos-sppld-sin-perderte-en-la-estructura-(con-ayuda-de-software-pld)/",
@@ -1844,23 +1851,23 @@
     {
       "page": "https://artu.ai/articles/guia-sistema-automatizado-pld-juegos-con-apuesta-concursos-sorteos/",
       "clicks": 1,
-      "impressions": 13,
-      "ctr": 0.0769,
-      "position": 7.46
+      "impressions": 12,
+      "ctr": 0.0833,
+      "position": 8
     },
     {
       "page": "https://artu.ai/articles/guia-sistema-automatizado-pld-metales-piedras-preciosas-joyas-relojes/",
       "clicks": 1,
-      "impressions": 26,
-      "ctr": 0.0385,
-      "position": 7.58
+      "impressions": 27,
+      "ctr": 0.037,
+      "position": 7.48
     },
     {
       "page": "https://artu.ai/articles/kyc-biometrico-e-identificacion-remota-en-mexico-(2026)-como-blindar-tu-compliance-pld-ante-deepfakes-y-que-debe-tener-tu-software-pld/",
       "clicks": 1,
-      "impressions": 13,
-      "ctr": 0.0769,
-      "position": 4.38
+      "impressions": 15,
+      "ctr": 0.0667,
+      "position": 3.93
     },
     {
       "page": "https://artu.ai/articles/lo-mas-destacado-de-2025/",
@@ -1872,16 +1879,16 @@
     {
       "page": "https://artu.ai/articles/manual-de-politicas-internas-pld-en-mexico-la-pieza-que-convierte-tu-compliance-en-un-sistema-real-(y-no-en-un-archivo-olvidado)/",
       "clicks": 1,
-      "impressions": 106,
-      "ctr": 0.0094,
-      "position": 9.02
+      "impressions": 110,
+      "ctr": 0.0091,
+      "position": 8.88
     },
     {
       "page": "https://artu.ai/articles/peps-(personas-politicamente-expuestas)-en-mexico-quien-es-pep-que-pasa-con-familiares-y-relacionados-y-cuando-aplicar-debida-diligencia-reforzada/",
       "clicks": 1,
-      "impressions": 250,
-      "ctr": 0.004,
-      "position": 6.7
+      "impressions": 263,
+      "ctr": 0.0038,
+      "position": 7.15
     },
     {
       "page": "https://artu.ai/articles/playbook-cumplimiento-lfpiorpi/",
@@ -1893,100 +1900,100 @@
     {
       "page": "https://artu.ai/articles/top-5-compliance-officers-mexico-abril-2026/",
       "clicks": 1,
-      "impressions": 10,
-      "ctr": 0.1,
-      "position": 4.5
+      "impressions": 12,
+      "ctr": 0.0833,
+      "position": 4.92
     },
     {
-      "page": "https://artu.ai/calculadora-de-riesgo/",
+      "page": "https://artu.ai/articles/umbrales-uma-2026-valor-diario-117-mxn-actualizado/",
       "clicks": 1,
-      "impressions": 167,
-      "ctr": 0.006,
-      "position": 4.26
+      "impressions": 24,
+      "ctr": 0.0417,
+      "position": 6.71
     },
     {
       "page": "https://artu.ai/pld-desarrolladoras/",
       "clicks": 1,
-      "impressions": 181,
-      "ctr": 0.0055,
-      "position": 5.02
+      "impressions": 187,
+      "ctr": 0.0053,
+      "position": 4.56
     },
     {
       "page": "https://artu.ai/pld-sofomes/",
       "clicks": 1,
-      "impressions": 100,
-      "ctr": 0.01,
-      "position": 20.04
+      "impressions": 102,
+      "ctr": 0.0098,
+      "position": 19.73
     },
     {
       "page": "https://artu.ai/pricing/",
       "clicks": 1,
-      "impressions": 117,
-      "ctr": 0.0085,
-      "position": 8.49
+      "impressions": 124,
+      "ctr": 0.0081,
+      "position": 8.23
     },
     {
       "page": "https://artu.ai/aliados/conviertete-en-aliado/",
       "clicks": 0,
-      "impressions": 247,
+      "impressions": 241,
       "ctr": 0,
-      "position": 2.5
+      "position": 2.54
     },
     {
       "page": "https://artu.ai/arco/",
       "clicks": 0,
-      "impressions": 71,
+      "impressions": 45,
       "ctr": 0,
-      "position": 4.03
+      "position": 3.6
     },
     {
       "page": "https://artu.ai/articles/activos-virtuales-y-cumplimiento-en-mexico-la-nueva-actividad-vulnerable-(lfpiorpi-2025)-que-obliga-a-blindar-tu-compliance-pld-con-software-pld/",
       "clicks": 0,
-      "impressions": 28,
+      "impressions": 24,
       "ctr": 0,
-      "position": 7.18
+      "position": 7.42
     },
     {
       "page": "https://artu.ai/articles/acuerdo-115-2026-reglas-caracter-general-lfpiorpi/",
       "clicks": 0,
-      "impressions": 54,
+      "impressions": 55,
       "ctr": 0,
-      "position": 5.46
+      "position": 5.38
     },
     {
       "page": "https://artu.ai/articles/analisis-de-riesgo-y-debida-diligencia-(due-diligence)-en-compliance-pld-como-cumplir-lfpiorpi-con-un-enfoque-basado-en-riesgos/",
       "clicks": 0,
-      "impressions": 77,
+      "impressions": 81,
       "ctr": 0,
-      "position": 9.48
+      "position": 9.35
     },
     {
       "page": "https://artu.ai/articles/aprobacion-de-la-reforma-lfpiorpi-2025-umbrales-reducidos-y-nuevas-obligaciones-de-monitoreo-para-actividades-vulnerables/",
       "clicks": 0,
       "impressions": 26,
       "ctr": 0,
-      "position": 9.31
+      "position": 9.12
     },
     {
       "page": "https://artu.ai/articles/articulo-22-de-la-ley-antilavado-por-que-reportar-al-sat-uif-no-viola-el-secreto-profesional-ni-la-confidencialidad/",
       "clicks": 0,
-      "impressions": 10,
+      "impressions": 11,
       "ctr": 0,
-      "position": 5.1
+      "position": 4.73
     },
     {
       "page": "https://artu.ai/articles/articulo-55-lfpiorpi-2025-la-segunda-oportunidad-que-puede-salvarte-de-multas-si-actuas-antes-del-primer-golpe/",
       "clicks": 0,
-      "impressions": 129,
+      "impressions": 138,
       "ctr": 0,
-      "position": 5.21
+      "position": 5.29
     },
     {
       "page": "https://artu.ai/articles/articulo-69-b-facturacion-falsa-y-compliance-pld-como-blindar-tu-kyc-con-un-software-pld-(lfpiorpi)/",
       "clicks": 0,
-      "impressions": 28,
+      "impressions": 29,
       "ctr": 0,
-      "position": 3.07
+      "position": 3
     },
     {
       "page": "https://artu.ai/articles/automatizar-la-ley-antilavado-en-mexico-guia-2025-paso-a-paso/",
@@ -1998,9 +2005,9 @@
     {
       "page": "https://artu.ai/articles/beneficiario-controlador-y-dueno-beneficiario-en-mexico-el-dueno-real-que-tu-compliance-pld-no-puede-ignorar-(kyc-software-lfpiorpi)/",
       "clicks": 0,
-      "impressions": 36,
+      "impressions": 40,
       "ctr": 0,
-      "position": 18.78
+      "position": 19.25
     },
     {
       "page": "https://artu.ai/articles/capacitacion-anual-y-auditoria-interna-en-compliance-pld-(lfpiorpi-2025)-como-convertir-cursos-sueltos-en-evidencia-auditable-con-software-pld/",
@@ -2026,9 +2033,9 @@
     {
       "page": "https://artu.ai/articles/compliance-pld-proteccion-de-datos-en-mexico-como-blindar-tu-kyc-y-tu-software-pld-sin-frenar-el-negocio-(lfpdppp-lfpiorpi)/",
       "clicks": 0,
-      "impressions": 32,
+      "impressions": 35,
       "ctr": 0,
-      "position": 29.91
+      "position": 25.97
     },
     {
       "page": "https://artu.ai/articles/cumplimiento-pld-en-mexico-2025-guia-definitiva-paso-a-paso/",
@@ -2068,16 +2075,16 @@
     {
       "page": "https://artu.ai/articles/guia-basica-que-es-la-ley-antilavado-y-cuales-son-mis-obligaciones/",
       "clicks": 0,
-      "impressions": 399,
+      "impressions": 400,
       "ctr": 0,
-      "position": 28.3
+      "position": 28.44
     },
     {
       "page": "https://artu.ai/articles/guia-sistema-automatizado-pld-blindaje-vehiculos-inmuebles/",
       "clicks": 0,
-      "impressions": 10,
+      "impressions": 9,
       "ctr": 0,
-      "position": 6.8
+      "position": 5.89
     },
     {
       "page": "https://artu.ai/articles/guia-sistema-automatizado-pld-construccion-desarrollo-intermediacion-inmobiliaria/",
@@ -2096,58 +2103,58 @@
     {
       "page": "https://artu.ai/articles/guia-sistema-automatizado-pld-prestamos-mutuos-creditos-no-bancarios/",
       "clicks": 0,
-      "impressions": 78,
+      "impressions": 80,
       "ctr": 0,
-      "position": 29.06
+      "position": 28.57
     },
     {
       "page": "https://artu.ai/articles/guia-sistema-automatizado-pld-recepcion-recursos-desarrollo-inmobiliario/",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 17,
       "ctr": 0,
-      "position": 9.06
+      "position": 9.12
     },
     {
       "page": "https://artu.ai/articles/guia-sistema-automatizado-pld-servicios-comercio-exterior-agentes-aduanales/",
       "clicks": 0,
-      "impressions": 56,
+      "impressions": 60,
       "ctr": 0,
-      "position": 14.3
+      "position": 13.82
     },
     {
       "page": "https://artu.ai/articles/guia-sistema-automatizado-pld-servicios-profesionales-independientes/",
       "clicks": 0,
-      "impressions": 69,
+      "impressions": 71,
       "ctr": 0,
-      "position": 32.94
+      "position": 31.11
     },
     {
       "page": "https://artu.ai/articles/guia-sistema-automatizado-pld-tarjetas-servicios-credito-prepagadas/",
       "clicks": 0,
-      "impressions": 42,
+      "impressions": 43,
       "ctr": 0,
-      "position": 40.76
+      "position": 39.95
     },
     {
       "page": "https://artu.ai/articles/guia-sistema-automatizado-pld-traslado-custodia-dinero-valores/",
       "clicks": 0,
-      "impressions": 88,
+      "impressions": 96,
       "ctr": 0,
-      "position": 15.97
+      "position": 15.1
     },
     {
       "page": "https://artu.ai/articles/guia-sistema-automatizado-pld-vehiculos-aereos-maritimos-terrestres/",
       "clicks": 0,
       "impressions": 14,
       "ctr": 0,
-      "position": 10
+      "position": 8.57
     },
     {
       "page": "https://artu.ai/articles/ia-en-software-pld-y-compliance-lfpiorpi-kyc-matriz-de-riesgo-umbrales-en-uma-y-avisos-al-sat-(sppld)/",
       "clicks": 0,
-      "impressions": 12,
+      "impressions": 13,
       "ctr": 0,
-      "position": 7.67
+      "position": 7.77
     },
     {
       "page": "https://artu.ai/articles/jeeves-automatizo-su-cumplimiento-de-lfpiorpi-con-artu/",
@@ -2159,16 +2166,16 @@
     {
       "page": "https://artu.ai/articles/kyc-simplificado-clientes-bajo-riesgo-cuando-aplica/",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 17,
       "ctr": 0,
-      "position": 6.06
+      "position": 5.76
     },
     {
       "page": "https://artu.ai/articles/lista-de-personas-bloqueadas-(uif)-y-avisos-en-24-horas-guia-practica-de-compliance-pld-y-software-pld-en-mexico-(2026)/",
       "clicks": 0,
-      "impressions": 152,
+      "impressions": 154,
       "ctr": 0,
-      "position": 8.3
+      "position": 8.24
     },
     {
       "page": "https://artu.ai/articles/mejor-software-pld-crypto-activos-virtuales-mexico-2026/",
@@ -2187,9 +2194,9 @@
     {
       "page": "https://artu.ai/articles/personas-politicamente-expuestas-identificacion-seguimiento-reforzado/",
       "clicks": 0,
-      "impressions": 24,
+      "impressions": 28,
       "ctr": 0,
-      "position": 12.88
+      "position": 12
     },
     {
       "page": "https://artu.ai/articles/platanus-x-artu/",
@@ -2201,9 +2208,9 @@
     {
       "page": "https://artu.ai/articles/pld-4.0-en-mexico-la-ia-como-motor-de-eficiencia-reduccion-de-costos-y-combate-a-la-corrupcion/",
       "clicks": 0,
-      "impressions": 9,
+      "impressions": 11,
       "ctr": 0,
-      "position": 23.56
+      "position": 20.27
     },
     {
       "page": "https://artu.ai/articles/reglas-caracter-general-lfpiorpi-2026/",
@@ -2215,9 +2222,9 @@
     {
       "page": "https://artu.ai/articles/software-pld-en-ventas-de-automoviles-en-mexico-por-que-es-indispensable-para-cumplir-lfpiorpi-kyc-umbrales-uma-y-avisos-sppld/",
       "clicks": 0,
-      "impressions": 42,
+      "impressions": 43,
       "ctr": 0,
-      "position": 7.05
+      "position": 7
     },
     {
       "page": "https://artu.ai/articles/tipologias-uif-2025-monitoreo-transaccional-y-software-pld-en-mexico-como-convertir-senales-de-alerta-en-controles-reales-(sin-ahogarte-en-falsos-positivos)/",
@@ -2232,13 +2239,6 @@
       "impressions": 10,
       "ctr": 0,
       "position": 6.1
-    },
-    {
-      "page": "https://artu.ai/articles/umbrales-uma-2026-valor-diario-117-mxn-actualizado/",
-      "clicks": 0,
-      "impressions": 23,
-      "ctr": 0,
-      "position": 6.7
     },
     {
       "page": "https://artu.ai/articles/un-mexico-donde-la-etica-y-la-innovacion-prosperen/",
@@ -2257,30 +2257,30 @@
     {
       "page": "https://artu.ai/autores/juan-pablo-ramirez/",
       "clicks": 0,
-      "impressions": 47,
+      "impressions": 53,
       "ctr": 0,
-      "position": 4.06
+      "position": 4.15
     },
     {
       "page": "https://artu.ai/aviso-de-privacidad",
       "clicks": 0,
       "impressions": 42,
       "ctr": 0,
-      "position": 3.74
+      "position": 3.81
     },
     {
       "page": "https://artu.ai/avisos-sppld/",
       "clicks": 0,
-      "impressions": 107,
+      "impressions": 111,
       "ctr": 0,
-      "position": 7.17
+      "position": 7.12
     },
     {
       "page": "https://artu.ai/casos-de-exito/",
       "clicks": 0,
-      "impressions": 140,
+      "impressions": 141,
       "ctr": 0,
-      "position": 6.24
+      "position": 6.21
     },
     {
       "page": "https://artu.ai/nominar-compliance-officer/",
@@ -2292,9 +2292,9 @@
     {
       "page": "https://artu.ai/politicas-de-devolucion/",
       "clicks": 0,
-      "impressions": 28,
+      "impressions": 27,
       "ctr": 0,
-      "position": 7.89
+      "position": 7.11
     },
     {
       "page": "https://artu.ai/software-pld-para-actividades-vulnerables/",
@@ -2307,10 +2307,10 @@
   "countries": [
     {
       "country": "mex",
-      "clicks": 171,
-      "impressions": 5241,
-      "ctr": 0.0326,
-      "position": 10.09
+      "clicks": 181,
+      "impressions": 5353,
+      "ctr": 0.0338,
+      "position": 9.93
     },
     {
       "country": "col",
@@ -2322,58 +2322,58 @@
     {
       "country": "usa",
       "clicks": 4,
-      "impressions": 406,
-      "ctr": 0.0099,
-      "position": 7.91
+      "impressions": 419,
+      "ctr": 0.0095,
+      "position": 7.86
     },
     {
       "country": "ven",
       "clicks": 2,
-      "impressions": 52,
-      "ctr": 0.0385,
-      "position": 8.19
+      "impressions": 51,
+      "ctr": 0.0392,
+      "position": 8.22
     },
     {
       "country": "chl",
       "clicks": 1,
-      "impressions": 90,
-      "ctr": 0.0111,
-      "position": 4.24
+      "impressions": 92,
+      "ctr": 0.0109,
+      "position": 4.21
     },
     {
       "country": "ecu",
       "clicks": 1,
-      "impressions": 47,
-      "ctr": 0.0213,
-      "position": 5.79
+      "impressions": 45,
+      "ctr": 0.0222,
+      "position": 5.51
     },
     {
       "country": "esp",
       "clicks": 1,
-      "impressions": 155,
-      "ctr": 0.0065,
+      "impressions": 160,
+      "ctr": 0.0063,
       "position": 7.43
     },
     {
       "country": "gtm",
       "clicks": 1,
-      "impressions": 38,
-      "ctr": 0.0263,
-      "position": 4.63
+      "impressions": 39,
+      "ctr": 0.0256,
+      "position": 4.62
     },
     {
       "country": "nic",
       "clicks": 1,
-      "impressions": 15,
-      "ctr": 0.0667,
-      "position": 9.8
+      "impressions": 11,
+      "ctr": 0.0909,
+      "position": 4
     },
     {
       "country": "per",
       "clicks": 1,
-      "impressions": 132,
-      "ctr": 0.0076,
-      "position": 4.02
+      "impressions": 134,
+      "ctr": 0.0075,
+      "position": 3.89
     },
     {
       "country": "alb",
@@ -2383,18 +2383,11 @@
       "position": 9
     },
     {
-      "country": "are",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 4
-    },
-    {
       "country": "arg",
       "clicks": 0,
-      "impressions": 68,
+      "impressions": 70,
       "ctr": 0,
-      "position": 7.51
+      "position": 7.47
     },
     {
       "country": "arm",
@@ -2441,9 +2434,9 @@
     {
       "country": "bgd",
       "clicks": 0,
-      "impressions": 12,
+      "impressions": 11,
       "ctr": 0,
-      "position": 24.08
+      "position": 25.36
     },
     {
       "country": "bgr",
@@ -2455,16 +2448,16 @@
     {
       "country": "bol",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 18,
       "ctr": 0,
-      "position": 3.69
+      "position": 3.44
     },
     {
       "country": "bra",
       "clicks": 0,
-      "impressions": 48,
+      "impressions": 45,
       "ctr": 0,
-      "position": 12.58
+      "position": 12.93
     },
     {
       "country": "bwa",
@@ -2476,9 +2469,9 @@
     {
       "country": "can",
       "clicks": 0,
-      "impressions": 13,
+      "impressions": 14,
       "ctr": 0,
-      "position": 4.92
+      "position": 5.21
     },
     {
       "country": "che",
@@ -2546,9 +2539,9 @@
     {
       "country": "dom",
       "clicks": 0,
-      "impressions": 14,
+      "impressions": 16,
       "ctr": 0,
-      "position": 6.14
+      "position": 6.75
     },
     {
       "country": "dza",
@@ -2574,9 +2567,9 @@
     {
       "country": "fra",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 15,
       "ctr": 0,
-      "position": 16.94
+      "position": 17.47
     },
     {
       "country": "fsm",
@@ -2588,9 +2581,9 @@
     {
       "country": "gbr",
       "clicks": 0,
-      "impressions": 11,
+      "impressions": 10,
       "ctr": 0,
-      "position": 5
+      "position": 5.4
     },
     {
       "country": "geo",
@@ -2630,9 +2623,9 @@
     {
       "country": "hnd",
       "clicks": 0,
-      "impressions": 18,
+      "impressions": 19,
       "ctr": 0,
-      "position": 5.17
+      "position": 5.05
     },
     {
       "country": "hrv",
@@ -2651,16 +2644,16 @@
     {
       "country": "idn",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 15,
       "ctr": 0,
-      "position": 7.5
+      "position": 7.6
     },
     {
       "country": "ind",
       "clicks": 0,
       "impressions": 36,
       "ctr": 0,
-      "position": 6.44
+      "position": 6.42
     },
     {
       "country": "irl",
@@ -2679,9 +2672,9 @@
     {
       "country": "irq",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 2,
       "ctr": 0,
-      "position": 7
+      "position": 7.5
     },
     {
       "country": "ita",
@@ -2707,9 +2700,9 @@
     {
       "country": "kor",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 4,
       "ctr": 0,
-      "position": 6.4
+      "position": 5.75
     },
     {
       "country": "lao",
@@ -2735,9 +2728,9 @@
     {
       "country": "mys",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 8,
       "ctr": 0,
-      "position": 7.71
+      "position": 7.75
     },
     {
       "country": "nld",
@@ -2756,9 +2749,9 @@
     {
       "country": "npl",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 2,
       "ctr": 0,
-      "position": 27
+      "position": 37
     },
     {
       "country": "nzl",
@@ -2791,9 +2784,9 @@
     {
       "country": "pol",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 3,
       "ctr": 0,
-      "position": 9
+      "position": 6.33
     },
     {
       "country": "pri",
@@ -2819,7 +2812,7 @@
     {
       "country": "rou",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
       "position": 6
     },
@@ -2847,9 +2840,9 @@
     {
       "country": "slv",
       "clicks": 0,
-      "impressions": 17,
+      "impressions": 19,
       "ctr": 0,
-      "position": 5.06
+      "position": 4.42
     },
     {
       "country": "srb",
@@ -2896,9 +2889,9 @@
     {
       "country": "tur",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 5,
       "ctr": 0,
-      "position": 52.5
+      "position": 42.4
     },
     {
       "country": "twn",
@@ -2931,9 +2924,9 @@
     {
       "country": "ury",
       "clicks": 0,
-      "impressions": 8,
+      "impressions": 9,
       "ctr": 0,
-      "position": 5.38
+      "position": 5.33
     },
     {
       "country": "uzb",
@@ -2945,9 +2938,9 @@
     {
       "country": "vnm",
       "clicks": 0,
-      "impressions": 8,
+      "impressions": 7,
       "ctr": 0,
-      "position": 28.5
+      "position": 32.29
     },
     {
       "country": "xkk",
@@ -2967,34 +2960,27 @@
   "devices": [
     {
       "device": "DESKTOP",
-      "clicks": 140,
-      "impressions": 4933,
-      "ctr": 0.0284,
-      "position": 11.11
+      "clicks": 152,
+      "impressions": 5026,
+      "ctr": 0.0302,
+      "position": 10.91
     },
     {
       "device": "MOBILE",
-      "clicks": 45,
-      "impressions": 1824,
-      "ctr": 0.0247,
-      "position": 5.71
+      "clicks": 43,
+      "impressions": 1861,
+      "ctr": 0.0231,
+      "position": 5.73
     },
     {
       "device": "TABLET",
       "clicks": 2,
-      "impressions": 34,
-      "ctr": 0.0588,
-      "position": 6.5
+      "impressions": 33,
+      "ctr": 0.0606,
+      "position": 6.52
     }
   ],
   "by_date": [
-    {
-      "date": "2026-10-11",
-      "clicks": 2,
-      "impressions": 143,
-      "ctr": 0.014,
-      "position": 11.27
-    },
     {
       "date": "2026-10-12",
       "clicks": 9,
@@ -3169,12 +3155,19 @@
       "impressions": 284,
       "ctr": 0.007,
       "position": 9.88
+    },
+    {
+      "date": "2026-11-06",
+      "clicks": 12,
+      "impressions": 272,
+      "ctr": 0.0441,
+      "position": 6.76
     }
   ],
   "counts": {
     "top_queries": 238,
     "top_pages": 89,
-    "countries": 94,
+    "countries": 93,
     "devices": 3,
     "days": 26
   }
